@@ -12,7 +12,7 @@ Right now, I’m building **Infracar** — a platform that leverages AI to analy
 - **Business & Technology Strategy** — bridging the gap between cutting-edge tech and market needs.
 
 ## 🛠 Tech Stack & Skills
-- **Languages**: Python, Swift, C/C++, Verilog, JavaScript/TypeScript
+- **Languages**: Python, Swift, C, Verilog, JavaScript/TypeScript
 - **Frameworks & Tools**: SwiftUI, OpenAI API, Flask, Tailwind CSS, Firebase, Google Cloud
 - **Specialties**: AI/ML applications, computer vision, backend architecture, cloud deployment
 - **Engineering Background**: Digital logic design, FPGA programming, embedded systems
